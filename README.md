@@ -11,4 +11,12 @@
     - Numpy
     - Time
     - Jupyter Lab/notebook
-   -
+ # Install
+  
+  - you can install all The aboove Mentioned libraries using the Below Comanda
+    - pip install tensorflow
+    - pip install numpy
+    - pip install Time
+    - pip install jupyterlab
+    
+   - if jupyter lab dosn't work then install anaconda-navigator
