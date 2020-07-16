@@ -4,8 +4,11 @@
  - The trained model and code for model 1 is Present in the Repo while the model 2 only has the code 
  # Requirements
  
-  ##Language Required 
+  - Language Required 
     - Python
-  ##Libraries Required 
+  - Libraries Required 
     - TensorFlow
-    -
+    - Numpy
+    - Time
+    - Jupyter Lab/notebook
+   -
